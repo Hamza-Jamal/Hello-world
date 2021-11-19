@@ -1,2 +1,3 @@
 txt file by bob 
-another line by bob 
+another line by bob
+third line by john  
